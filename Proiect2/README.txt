@@ -1,0 +1,1 @@
+Acest proiect reprezinta o aplicatie de gestionare a angajatilor dintr-o echipa de fotbal, utilizand concepte avansate de OOP, precum mostenirea in diamant, clase virtuale, polimorfism etc.
