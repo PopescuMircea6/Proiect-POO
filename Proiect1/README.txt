@@ -1,0 +1,1 @@
+Aplicatie alcatuita din 4 clase care permite modelarea unui sistem simplificat pentru gestionarea unui magazin. Proiectul este insotit de un meniu interactiv care poate permite operatiile de baza (Create, Read, Update, Delete) dar si sa exemplifice functionalitatile aplicatiei.
